@@ -1,0 +1,12 @@
+img {
+    max-width: 100%;
+    /* height: auto; */
+}
+
+.pic {
+    width: 360px;
+    height: 360px;
+    /* height: auto; */
+    margin: 3px;
+    padding: 3px;
+}
